@@ -1,2 +1,3 @@
-# Biofeedback-Loop-System-for-Anxiety-Management-in-Real-Time
-Biofeedback Loop System for Anxiety Management in Real-Time A real-time biofeedback system designed to monitor physiological signals (e.g., heart rate, skin conductivity) and provide feedback for managing anxiety. The system helps users regulate stress levels using real-time data and notifications, promoting emotional well-being.
+# Real-Time-Biofeedback-System-for-Anxiety-Management
+A real-time biofeedback system that monitors physiological signals like heart rate and skin conductivity to help manage anxiety. The system provides feedback and notifications to guide users in stress regulation and emotional well-being.
+
